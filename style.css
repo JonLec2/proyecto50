@@ -1,0 +1,109 @@
+.encabesado{
+    background-color: darkcyan;
+    display: flex;
+    justify-content:  space-between;
+    font-family: sans-serif;
+}
+
+.redes{
+    display: flex;
+    flex-direction: column;
+}
+
+
+h1{
+    color: snow;
+    
+   
+}
+
+h2{
+    color: snow;
+
+}
+
+
+.menu{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: rgba(0, 179, 179, 0.281);
+    font-family:Impact;
+    font-size: 20px;
+
+}
+
+.bodyimg{
+    position: relative;
+
+}
+
+.bodyimg img{
+    border: none;
+}
+
+
+.textoencima{
+    position: absolute;
+    text-align: center;
+font-family: sans-serif;
+top: 210px;
+}
+
+
+img{
+    border: ridge;
+    border-radius: 22px;
+    color: rgb(0, 162, 255);
+}
+
+
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.grid h3{
+text-align: center;
+
+}
+
+.grid img{
+    border: 2px solid rgb(39, 50, 63);
+    display: block;
+    margin-left: 50px;
+    margin-top: 30px;
+}
+
+.origami{
+ border-radius: 20px;
+ background-color: rgba(37, 146, 86, 0.089);
+
+ width: 310px;
+ font-family: fantasy;
+ text-align: left;
+
+ margin-left: 19px;
+ margin-bottom: 19px;
+ 
+}
+
+
+p{
+    color: rgb(6, 106, 136)
+}
+
+.pasos{
+    
+    display: flex;
+    justify-content:  space-between;
+    background-color: rgba(0, 255, 255, 0.274);
+   
+    border-radius: 20px;
+    font-family: sans-serif;
+}
+
+.pasos h1{
+font-family: sans-serif;
+}
+
